@@ -2,18 +2,19 @@
 # profile-update-interval: 1
 #profile-web-page-url: https://t.me/loli_free_vpn
 #announce: Бесплатная подписка навсегда- | Бот: @lolivpnrobot
-vless://7955bf18-35c4-412d-aabd-c0b36c793063@r0xnfzk9ud.newwl.pro:443?security=tls&type=ws&sni=r0xnfzk9ud.newwl.pro&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&host=r0xnfzk9ud.newwl.pro&fp=android#🇳🇱 Нидерланды
-vless://7955bf18-35c4-412d-aabd-c0b36c793063@r0xnfzk9ud.newwl.pro:443?security=tls&type=ws&sni=r0xnfzk9ud.newwl.pro&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&host=r0xnfzk9ud.newwl.pro&fp=chrome#🇳🇱 Нидерланды
-vless://7955bf18-35c4-412d-aabd-c0b36c793063@r0xnfzk9ud.newwl.pro:443?security=tls&type=ws&sni=r0xnfzk9ud.newwl.pro&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&host=r0xnfzk9ud.newwl.pro&fp=ios#🇳🇱 Нидерланды
-vless://7955bf18-35c4-412d-aabd-c0b36c793063@r0xnfzk9ud.newwl.pro:443?security=tls&type=ws&sni=r0xnfzk9ud.newwl.pro&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&host=r0xnfzk9ud.newwl.pro&fp=safari#🇳🇱 Нидерланды
-vless://7955bf18-35c4-412d-aabd-c0b36c793063@r0xnfzk9ud.newwl.pro:443?security=tls&type=ws&sni=r0xnfzk9ud.newwl.pro&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&host=r0xnfzk9ud.newwl.pro&fp=firefox#🇳🇱 Нидерланды
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@168.113.143.5:443?flow=xtls-rprx-vision&security=tls&sni=rsk3.betust.net&fp=android#🇦🇹 Австрия
-vless://1547ed3d-3bb7-4153-afdc-8eb3e9373c84@95.129.236.50:443?security=tls&sni=video.get.downloader-pet.xyz&type=ws&host=video.get.downloader-pet.xyz&path=%2Fgateway%2Fv1%2Fws%2Fde963c1a03a37c66383da198813099b1&fp=safari#🇫🇷 Франция
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@168.113.143.5:443?flow=xtls-rprx-vision&security=tls&sni=rsk3.betust.net&fp=edge#🇪🇸 Испания
-vless://1547ed3d-3bb7-4153-afdc-8eb3e9373c84@95.129.236.50:443?security=tls&sni=video.get.downloader-pet.xyz&type=ws&host=video.get.downloader-pet.xyz&path=%2Fgateway%2Fv1%2Fws%2Fde963c1a03a37c66383da198813099b1&fp=qq#🇪🇸 Испания
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@168.113.143.5:443?flow=xtls-rprx-vision&security=tls&sni=rsk3.betust.net&fp=firefox#🇮🇪 Ирландия
-vless://1547ed3d-3bb7-4153-afdc-8eb3e9373c84@95.129.236.50:443?security=tls&sni=video.get.downloader-pet.xyz&type=ws&host=video.get.downloader-pet.xyz&path=%2Fgateway%2Fv1%2Fws%2Fde963c1a03a37c66383da198813099b1&fp=chrome#🇵🇹 Португалия
-vless://1547ed3d-3bb7-4153-afdc-8eb3e9373c84@95.129.236.50:443?security=tls&sni=video.get.downloader-pet.xyz&type=ws&host=video.get.downloader-pet.xyz&path=%2Fgateway%2Fv1%2Fws%2Fde963c1a03a37c66383da198813099b1&fp=firefox#🇬🇷 Греция
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@168.113.143.5:443?flow=xtls-rprx-vision&security=tls&sni=rsk3.betust.net&fp=safari#🇲🇾 Малайзия
-vless://1547ed3d-3bb7-4153-afdc-8eb3e9373c84@95.129.236.50:443?security=tls&sni=video.get.downloader-pet.xyz&type=ws&host=video.get.downloader-pet.xyz&path=%2Fgateway%2Fv1%2Fws%2Fde963c1a03a37c66383da198813099b1&fp=edge#🇲🇽 Мексика
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@168.113.143.5:443?flow=xtls-rprx-vision&security=tls&sni=rsk3.betust.net&fp=qq#🇳🇬 Нигерия
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@168.113.143.5:443?flow=xtls-rprx-vision&security=tls&sni=rsk3.betust.net&fp=edge#🇩🇪 Германия
+vless://1547ed3d-3bb7-4153-afdc-8eb3e9373c84@95.129.236.50:443?encryption=none&host=video.get.downloader-pet.xyz&path=%2Fgateway%2Fv1%2Fws%2Fde963c1a03a37c66383da198813099b1&security=tls&sni=video.get.downloader-pet.xyz&type=ws&fp=qq#🇳🇴 Норвегия
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@rsk3.betust.net:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=rsk3.betust.net&fp=ios#🇨🇿 Чехия
+vless://1547ed3d-3bb7-4153-afdc-8eb3e9373c84@95.129.236.50:443?encryption=none&host=video.get.downloader-pet.xyz&path=%2Fgateway%2Fv1%2Fws%2Fde963c1a03a37c66383da198813099b1&security=tls&sni=video.get.downloader-pet.xyz&type=ws&fp=edge#🇨🇦 Канада
+vless://1547ed3d-3bb7-4153-afdc-8eb3e9373c84@95.129.236.50:443?encryption=none&host=video.get.downloader-pet.xyz&path=%2Fgateway%2Fv1%2Fws%2Fde963c1a03a37c66383da198813099b1&security=tls&sni=video.get.downloader-pet.xyz&type=ws&fp=chrome#🇯🇵 Япония
+vless://1547ed3d-3bb7-4153-afdc-8eb3e9373c84@95.129.236.50:443?encryption=none&host=video.get.downloader-pet.xyz&path=%2Fgateway%2Fv1%2Fws%2Fde963c1a03a37c66383da198813099b1&security=tls&sni=video.get.downloader-pet.xyz&type=ws&fp=firefox#🇯🇵 Япония
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@rsk3.betust.net:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=rsk3.betust.net&fp=chrome#🇧🇪 Бельгия
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@168.113.143.5:443?flow=xtls-rprx-vision&security=tls&sni=rsk3.betust.net&fp=random#🇧🇬 Болгария
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@rsk3.betust.net:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=rsk3.betust.net&fp=safari#🇸🇮 Словения
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@168.113.143.5:443?flow=xtls-rprx-vision&security=tls&sni=rsk3.betust.net&fp=ios#🇪🇪 Эстония
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@168.113.143.5:443?flow=xtls-rprx-vision&security=tls&sni=rsk3.betust.net&fp=qq#🇨🇾 Кипр
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@rsk3.betust.net:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=rsk3.betust.net&fp=qq#🇹🇷 Турция
+vless://1547ed3d-3bb7-4153-afdc-8eb3e9373c84@95.129.236.50:443?encryption=none&host=video.get.downloader-pet.xyz&path=%2Fgateway%2Fv1%2Fws%2Fde963c1a03a37c66383da198813099b1&security=tls&sni=video.get.downloader-pet.xyz&type=ws&fp=safari#🇹🇷 Турция
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@rsk3.betust.net:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=rsk3.betust.net&fp=firefox#🇮🇱 Израиль
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@168.113.143.5:443?flow=xtls-rprx-vision&security=tls&sni=rsk3.betust.net&fp=safari#🇦🇪 ОАЭ
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@168.113.143.5:443?flow=xtls-rprx-vision&security=tls&sni=rsk3.betust.net&fp=firefox#🇲🇽 Мексика
